@@ -46,8 +46,8 @@ Atualmente, dedico minha rotina a dominar as bases fundamentais da Web, criando 
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dark"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=jeffersonbk15&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonbk15&layout=compact&theme=dark"/>
 
 </div>
 
